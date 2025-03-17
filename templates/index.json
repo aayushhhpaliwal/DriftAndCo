@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "promotional_banner": {
@@ -21,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +44,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pineapple-supply-co-SWfcRVm-o0E-unsplash.jpg",
         "color_scheme": "scheme-3",
         "image_behavior": "none"
       }
@@ -93,25 +101,25 @@
         "product_zNe6nE": {
           "type": "product",
           "settings": {
-            "product": "mangroove-bikini"
+            "product": "bbq-copy"
           }
         },
         "product_Yb7ygm": {
           "type": "product",
           "settings": {
-            "product": "blue-swimsuit"
+            "product": "black-plain-mandarin-shirt"
           }
         },
         "product_L8UpCa": {
           "type": "product",
           "settings": {
-            "product": "black-one-piece-swimsuit"
+            "product": "shorts-on-7-oz"
           }
         },
         "product_HpB9Hf": {
           "type": "product",
           "settings": {
-            "product": "kenia-one-piece-swimsuit"
+            "product": "mix-chips"
           }
         }
       },
@@ -122,7 +130,10 @@
         "product_HpB9Hf"
       ],
       "settings": {
-        "heading": "add a heading"
+        "heading": "add a heading",
+        "button_text": "View all",
+        "button_url": "",
+        "show_button": true
       }
     },
     "collection_spotlight_yfQXgq": {
@@ -172,7 +183,6 @@
         "buttons_DpNbEj"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/angelina-litvin--uwPMTAxTig-unsplash.jpg",
         "color_scheme": "",
         "image_behavior": "none"
       }
@@ -184,7 +194,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -193,7 +203,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -202,7 +212,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -218,11 +228,11 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
